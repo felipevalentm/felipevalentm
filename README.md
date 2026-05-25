@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia de Software<br>💼 Experiência na área financeira e administrativa<br>🧠 Mentalidade analítica e visão de processo<br>⚙️ Interesse forte em automação, sistemas e produtividade<br>📈 Sempre aprendendo algo novo</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💼 Experiência na área financeira e administrativa<br>🧠 Mentalidade analítica e visão de processo<br>⚙️ Interesse forte em automação, sistemas e produtividade<br>📈 Sempre aprendendo algo novo</p>
 
 ###
 
