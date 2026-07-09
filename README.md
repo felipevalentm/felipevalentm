@@ -1,4 +1,4 @@
-# Olá, eu sou Felipe 👋
+# Olá, eu sou Felipe! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 💼 Experiência nas áreas financeira e administrativa, com atuação em análise e gestão de dados<br>
