@@ -1,18 +1,18 @@
 # Olá, eu sou Felipe 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Experiência nas áreas financeira e administrativa  
-🧠 Perfil analítico, organizado e focado em resolução de problemas  
-⚙️ Interesse em desenvolvimento de software, automações e tecnologia  
-🎯 Foco em desenvolvimento back-end, automações inteligentes e integração com bancos de dados  
-📈 Sempre aprendendo, evoluindo e construindo novos projetos  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💼 Experiência nas áreas financeira e administrativa, com atuação em análise e gestão de dados
+🧠 Perfil analítico, organizado e focado em resolução de problemas
+⚙️ Interesse em desenvolvimento de software, automações, análise de dados e tecnologia
+🎯 Foco em desenvolvimento back-end, automações inteligentes, análise de dados e integração com bancos de dados
+📈 Sempre aprendendo, evoluindo e construindo novos projetos
 
 ---
 
 # 🚀 Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,c,mysql,postgres,git,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,pycharm" />
 </div>
 
 ---
@@ -21,12 +21,11 @@
 
 ### Linguagens
 - Python
-- JavaScript
-- PHP
-- C
 
 ### Banco de Dados
 - MySQL
+- Postgres
+- Supabase
 
 ### Ferramentas & Tecnologias
 - Git & GitHub
@@ -39,9 +38,11 @@
 ---
 
 # 📚 Atualmente Aprendendo
+
 - Desenvolvimento Back-End
 - APIs e Integrações
-- Banco de Dados
+- Banco de Dados e Modelagem de Dados
+- Análise de Dados e Visualização de Informações
 - Automações com Python
 - Inteligência Artificial e LLMs
 
@@ -49,7 +50,7 @@
 
 # 🎯 Objetivo
 
-Buscando minha primeira oportunidade na área de tecnologia para ganhar experiência prática, evoluir como desenvolvedor e contribuir com projetos reais.
+Buscando minha primeira oportunidade na área de tecnologia para ganhar experiência prática, evoluir como desenvolvedor/analista de dados e contribuir com projetos reais.
 
 ---
 
