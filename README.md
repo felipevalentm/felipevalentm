@@ -1,61 +1,67 @@
-# Olá, eu sou Felipe! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=180&section=header&text=Felipe%20Valentim&fontSize=45&fontColor=ffffff" />
+</div>
 
+<div align="center">
+  
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Experiência nas áreas financeira e administrativa, com atuação em análise e gestão de dados  
-🧠 Perfil analítico, organizado e focado em resolução de problemas  
-⚙️ Interesse em desenvolvimento de software, automações, análise de dados e tecnologia  
-🎯 Foco em desenvolvimento Back-End, automações inteligentes, análise de dados e integração com bancos de dados  
-📈 Sempre aprendendo, evoluindo e construindo novos projetos  
+💻 Desenvolvedor em formação | Python • Backend • Data Analysis  
+🤖 Interessado em automação, inteligência artificial e soluções baseadas em dados  
+
+</div>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
 
-### 💻 Linguagens
-🐍 Python
+Profissional com experiência na área financeira e administrativa, atuando com análise e gestão de dados. Atualmente direcionando minha carreira para tecnologia, com foco em desenvolvimento backend, automações e análise de dados.
 
-### 🗄️ Banco de Dados
-- MySQL
-- PostgreSQL
-- Supabase
-
-### 🛠️ Ferramentas & Tecnologias
-- Git & GitHub
-- VS Code
-- PyCharm
-- Inteligência Artificial (ChatGPT, Google Gemini)
+Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos, evoluir profissionalmente e contribuir em projetos reais.
 
 ---
 
-## 📚 Atualmente Aprendendo
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,postgres,supabase,git,github,vscode,pycharm" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
 
 - Desenvolvimento Back-End
 - APIs e Integrações
-- Banco de Dados e Modelagem de Dados
-- Análise de Dados e Visualização de Informações
+- Banco de Dados
+- Análise de Dados
 - Automações com Python
 - Inteligência Artificial e LLMs
 
 ---
 
-## 🎯 Objetivo
+## 📊 Ferramentas de Dados
 
-Buscando minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos, adquirir experiência prática e contribuir com projetos reais nas áreas de desenvolvimento e análise de dados.
+<div align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</div>
 
 ---
 
 ## 📫 Contato
 
-<div align="left">
-  <a href="https://github.com/felipevalentm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/felipevalentm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
