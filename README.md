@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6A5ACD&height=180&section=header&text=Felipe%20Valentim&fontSize=45&fontColor=ffffff" />
-</div>
 
-<div align="center">
-  
+# Olá, eu sou Felipe! 👋
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor em formação | Python • Backend • Data Analysis  
-🤖 Interessado em automação, inteligência artificial e soluções baseadas em dados  
+💻 Desenvolvedor em formação | Python • Back-End • Análise de Dados  
+📊 Interesse em análise de dados, automações inteligentes e desenvolvimento de soluções eficientes
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim:
 
 Profissional com experiência na área financeira e administrativa, atuando com análise e gestão de dados. Atualmente direcionando minha carreira para tecnologia, com foco em desenvolvimento backend, automações e análise de dados.
 
@@ -20,7 +18,7 @@ Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias:
 
 <div align="center">
 
@@ -30,18 +28,7 @@ Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos
 
 ---
 
-## 📚 Atualmente estudando
-
-- Desenvolvimento Back-End
-- APIs e Integrações
-- Banco de Dados
-- Análise de Dados
-- Automações com Python
-- Inteligência Artificial e LLMs
-
----
-
-## 📊 Ferramentas de Dados
+## 📊 Ferramentas de Dados:
 
 <div align="center">
 
