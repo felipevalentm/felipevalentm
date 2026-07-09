@@ -37,7 +37,7 @@ Busco minha primeira oportunidade na área de TI para aplicar meus conhecimentos
 
 ---
 
-## 📫 Contato
+## 📫 Contato:
 
 <div align="center">
 
