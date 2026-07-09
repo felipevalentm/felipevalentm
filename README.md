@@ -1,5 +1,3 @@
-<div align="center">
-
 # Olá, eu sou Felipe! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
